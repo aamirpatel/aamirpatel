@@ -2,7 +2,7 @@
 
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aamirpatel&show_icons=true)
 
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=DevOps+Engineer;SRE;Cloud+Engineer)
