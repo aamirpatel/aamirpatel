@@ -1,25 +1,5 @@
 # 👋 Hi, I'm Amir Patel
 
-🚀 Senior Consultant | DevOps | SRE | Cloud Engineer  
-
----
-
-## 🔧 Skills & Expertise
-- ☁️ Cloud: AWS, Azure, GCP  
-- ⚙️ DevOps: Jenkins, GitHub Actions, GitLab CI  
-- 🐳 Containers: Docker, Kubernetes, AKS/EKS  
-- 📊 Observability: Prometheus, Grafana, Dynatrace, Splunk  
-- 🏗️ IaC: Terraform, Ansible  
-
----
-
-## 🔭 Current Focus
-- Platform Engineering  
-- AI-enabled DevOps / SRE  
-- GitOps (ArgoCD)  
-- AIOps & Observability  
-
----
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
@@ -42,6 +22,26 @@
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
 ![Terraform](https://img.shields.io/badge/Terraform-IaC-purple)
+
+---
+🚀 Senior Consultant | DevOps | SRE | Cloud Engineer  
+
+---
+
+## 🔧 Skills & Expertise
+- ☁️ Cloud: AWS, Azure, GCP  
+- ⚙️ DevOps: Jenkins, GitHub Actions, GitLab CI  
+- 🐳 Containers: Docker, Kubernetes, AKS/EKS  
+- 📊 Observability: Prometheus, Grafana, Dynatrace, Splunk  
+- 🏗️ IaC: Terraform, Ansible  
+
+---
+
+## 🔭 Current Focus
+- Platform Engineering  
+- AI-enabled DevOps / SRE  
+- GitOps (ArgoCD)  
+- AIOps & Observability  
 
 ---
 
