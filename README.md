@@ -4,26 +4,19 @@
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
 
----
-
----
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=DevOps+Engineer;SRE;Cloud+Engineer)
 
----
 
----
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aamirpatel)
 
----
 
----
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
 ![Terraform](https://img.shields.io/badge/Terraform-IaC-purple)
 
----
+
 🚀 Senior Consultant | DevOps | SRE | Cloud Engineer  
 
 ---
